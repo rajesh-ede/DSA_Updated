@@ -1,5 +1,5 @@
 package Strings;
-
+// Problem: Given a string, calculate the sum of numbers in a string (multiple consecutive digits are considered one number)
 public class SumOfNumber {
     private static int Sum(String s){
       int sum = 0;

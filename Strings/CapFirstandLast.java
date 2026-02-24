@@ -1,7 +1,7 @@
 package Strings;
 
 public class CapFirstandLast {
-
+// Capitalize first and last character of each word
     private static String Capital(String s){
         char c[] = s.toCharArray();
         int start = 0;
