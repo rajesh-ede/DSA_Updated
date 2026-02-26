@@ -1,6 +1,7 @@
 package Strings;
 
 public class NonRepeated {
+    // Optimal Approach O(n)
     private static void Optimal(String s, int n){
         int freq[] = new int [200];
         for(int i = 0; i < s.length(); i++){
@@ -17,6 +18,7 @@ public class NonRepeated {
             }
         }
     }
+    // Time Complexity O(n^2)
     private static void NonRepeat(String st, int n){
           int freq[] = new int[200];  
 
