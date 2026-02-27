@@ -22,5 +22,6 @@ public class SelectionSort {
     public static void main(String[] args) {
         int num[] = {3,6,1,2,0};
         Selection(num);
+        
     }
 }
