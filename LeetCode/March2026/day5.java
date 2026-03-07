@@ -1,5 +1,5 @@
 package LeetCode.March2026;
-
+// 1758. Minimum Changes To Make Alternating Binary String
 public class day5 {
     private  static int MiniMum(String s){
         int count1 = 0;
