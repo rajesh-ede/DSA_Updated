@@ -1,5 +1,5 @@
 package LeetCode.March2026;
-
+//1784. Check if Binary String Has at Most One Segment of Ones
 public class day6 {
     private static boolean AtMostOneSigment(String s){
         int count =  0;
