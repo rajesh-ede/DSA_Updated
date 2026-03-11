@@ -1,7 +1,7 @@
 package Arrays.Medium;
 //Leet Code 53
 public class MaximumSubArray {
-// Optimal by Kadane's Algorithm
+// Optimal by Kadane's Algorithm O(n)
 private static int OptMax(int[] nums){
     int ans = nums[0];
     int sum = 0;

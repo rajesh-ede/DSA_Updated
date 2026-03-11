@@ -19,7 +19,7 @@ public class Bubble {
     }
     public static void main(String[] args) {
         int num[] = {3,7,8,1,2};
-        Sort(num);
+        Sort(num); 
     }
     
 }
