@@ -1,4 +1,5 @@
-package March2026;
+
+package LeetCode.March2026;
 //  1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 public class day1 {
     private static int DeciBinary(String s){

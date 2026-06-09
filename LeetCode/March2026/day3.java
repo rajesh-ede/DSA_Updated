@@ -1,4 +1,4 @@
-package March2026;
+package LeetCode.March2026;
 // 1545. Find Kth Bit in Nth Binary String
 public class day3 {
 private  static char findFlip(int n, int k){

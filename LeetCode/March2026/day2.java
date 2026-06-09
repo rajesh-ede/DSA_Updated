@@ -1,4 +1,4 @@
-package March2026;
+package LeetCode.March2026;
 
 // 1536. Minimum Swaps to Arrange a Binary Grid
 

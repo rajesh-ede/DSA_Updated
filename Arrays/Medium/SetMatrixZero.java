@@ -1,5 +1,5 @@
 package Arrays.Medium;
-
+// Leetcode 73
 public class SetMatrixZero {
     public static void Zeros(int [][] matrix){
         int n = matrix.length;

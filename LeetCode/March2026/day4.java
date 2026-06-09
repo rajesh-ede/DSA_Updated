@@ -1,4 +1,4 @@
-package March2026;
+package LeetCode.March2026;
 // 1582. Special Positions in a Binary Matrix
 public class day4 {
     private static int Count (int[][] mat){
