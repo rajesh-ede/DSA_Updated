@@ -3,6 +3,9 @@ package Trees;
 import java.util.*;
 
 class MaximumDepth{
+    // Calculating height based on the BFS depth
+    // Time Complexity : O(n)
+    // Space Complexity : O(H)
 public static int BFSDepth(TreeNode root){
     if(root == null){
         return 0;
@@ -25,7 +28,7 @@ public static int BFSDepth(TreeNode root){
    }
    return depth;
 }
-    // This using DFS
+    // calculating Height based on the DFS height
     public static int Depth(TreeNode root){
 
         if(root == null){
